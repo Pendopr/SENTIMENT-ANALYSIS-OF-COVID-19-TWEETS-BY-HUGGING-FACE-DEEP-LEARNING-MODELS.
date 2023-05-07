@@ -31,6 +31,7 @@ def main():
 
     # Define the available models
     models= {
+    "BERT":"Pendo/finetuned-Sentiment-classfication-BERT-model", 
     "RoBERTa":"Pendo/finetuned-Sentiment-classfication-ROBERTA-Base-model",
     "DistilBERT":"Pendo/finetuned-Sentiment-classfication-DISTILBERT-base-uncased-model"
 }
