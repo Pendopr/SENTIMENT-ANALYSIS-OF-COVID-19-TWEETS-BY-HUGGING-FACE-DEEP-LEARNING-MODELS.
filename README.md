@@ -5,8 +5,6 @@
 ## Repository description
 This repository contains the basic files to start the NLP Live Project based on the Zindi's challenge To Vaccinate or Not to Vaccinate: It’s not a Question by #ZindiWeekendz.
 
-The folder ```data``` contains the dataset.\
-The folder ```notebooks``` contains sample notebooks to get started.
 
 ## Challenge Description
 This challenge was designed specifically as a #ZindiWeekendz hackathon (To Vaccinate or Not to Vaccinate: It’s not a Question). We are re-opening the hackathon as a Knowledge Challenge, to allow the Zindi community to learn and test their skills. To help you all out, we’ve created a new Tutorials tab with helpful resources from the community. We encourage Zindians to share their code on the discussion board so that everyone in our community can learn from and support one another.
